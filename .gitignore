@@ -24,3 +24,5 @@ application_default_credentials.json
 
 # VS Code
 .vscode/
+
+getting-started-with-sql-and-bigquery.ipynb
